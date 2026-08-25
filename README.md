@@ -90,5 +90,4 @@ Foreign key relationships
 Employee login system
 
 Conclusion
-
 This is a beginner-friendly MySQL Employee Management System suitable for learning SQL, practicing DBMS concepts, and showcasing a basic database project on GitHub.
